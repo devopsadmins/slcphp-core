@@ -1,0 +1,14 @@
+{
+  "name":"slcphp/core",
+  "version": "1.0.0",
+  "description": "Core de Aplicações PHP",
+  "main": "core.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://sousalimaconsultoria@dev.azure.com/sousalimaconsultoria/RepositorioPHP/_git/RepositorioPHP"
+  },
+  "private": true
+}
