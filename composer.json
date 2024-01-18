@@ -1,0 +1,17 @@
+{
+    "name": "slcphp/core",
+    "description": "Core de Aplicações PHP da SLC",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Slcphp\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Everton De Oliveira Lima",
+            "email": "everton@sousalimaconsultoria.com.br"
+        }
+    ],
+    "require": {}
+}
